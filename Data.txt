@@ -11,4 +11,9 @@ adding data after creating the branch
 the data is not necessary
 we can delete the data
 
+important
 creating conflict
+
+tring to create the merge conflict by editing 
+the same file in main branch and important branch at same time
+main
