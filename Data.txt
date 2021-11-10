@@ -7,7 +7,8 @@ adding important data by creating a branch
 
 adding data after creating the branch
 
-
 2. unimportant data
 the data is not necessary
 we can delete the data
+
+creating conflict
